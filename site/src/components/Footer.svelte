@@ -1,14 +1,14 @@
 <style>
 
     .dark-green-gradient {
-        background: rgba(64,62,92,0.27);
-background: -moz-linear-gradient(top, rgba(64,62,92,0.27) 0%, rgba(32,61,80,1) 68%, rgba(17,60,75,1) 100%);
-background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(64,62,92,0.27)), color-stop(68%, rgba(32,61,80,1)), color-stop(100%, rgba(17,60,75,1)));
-background: -webkit-linear-gradient(top, rgba(64,62,92,0.27) 0%, rgba(32,61,80,1) 68%, rgba(17,60,75,1) 100%);
-background: -o-linear-gradient(top, rgba(64,62,92,0.27) 0%, rgba(32,61,80,1) 68%, rgba(17,60,75,1) 100%);
-background: -ms-linear-gradient(top, rgba(64,62,92,0.27) 0%, rgba(32,61,80,1) 68%, rgba(17,60,75,1) 100%);
-background: linear-gradient(to bottom, rgba(64,62,92,0.27) 0%, rgba(32,61,80,1) 68%, rgba(17,60,75,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#403e5c', endColorstr='#113c4b', GradientType=0 );
+        background: rgba(248,249,250,1);
+background: -moz-linear-gradient(top, rgba(248,249,250,1) 0%, rgba(91,120,131,1) 68%, rgba(17,60,75,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(248,249,250,1)), color-stop(68%, rgba(91,120,131,1)), color-stop(100%, rgba(17,60,75,1)));
+background: -webkit-linear-gradient(top, rgba(248,249,250,1) 0%, rgba(91,120,131,1) 68%, rgba(17,60,75,1) 100%);
+background: -o-linear-gradient(top, rgba(248,249,250,1) 0%, rgba(91,120,131,1) 68%, rgba(17,60,75,1) 100%);
+background: -ms-linear-gradient(top, rgba(248,249,250,1) 0%, rgba(91,120,131,1) 68%, rgba(17,60,75,1) 100%);
+background: linear-gradient(to bottom, rgba(248,249,250,1) 0%, rgba(91,120,131,1) 68%, rgba(17,60,75,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', endColorstr='#113c4b', GradientType=0 );
     }
 
     .dark-green-bg {
@@ -16,7 +16,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#403e5c', end
     }
 </style>
 
-<section class="signup-section " id="signup">
+<section class="signup-section dark-green-gradient" id="signup">
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-lg-8 mx-auto text-center">
