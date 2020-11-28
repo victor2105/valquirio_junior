@@ -14,3 +14,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.logo-font {
+    font-family: 'Satisfy', cursive;
+}
