@@ -12,11 +12,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
     }
 
     .dark-green-bg {
-        background-color: #113c4b;
+        background: #113c4b;
     }
 </style>
 
-<section class="signup-section dark-green-gradient" id="signup">
+<section class="signup-section dark-green-bg" id="signup">
     <div class="container">
         <div class="row">
             <div class="col-md-10 col-lg-8 mx-auto text-center">
