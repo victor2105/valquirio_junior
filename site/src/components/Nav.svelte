@@ -3,7 +3,13 @@
 	let open = false;
 </script>
 
-<svelte:window bind:scrollY={y} />
+<style>	
+.logo-font {
+    font-family: 'Satisfy', cursive;
+}
+</style>
+
+<svelte:window bind:scrollY={y}/>
 
 <!-- Navigation-->
 <nav
