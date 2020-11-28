@@ -16,7 +16,7 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top {y > 100 ? 'navbar-shrink' : '' } " id="mainNav">
 	<div class="container">
 
-		<a class="navbar-brand logo-font  {y > 100 ? 'text-gradient' : '' } " on:click={() => open = false} href="#page-top">Kirro Mass</a>
+		<a class="navbar-brand logo-font text-gradient " on:click={() => open = false} href="#page-top">Kirro Mass</a>
 
 		<button class="navbar-toggler navbar-toggler-right" type="button" on:click={() => open = !open} aria-expanded={open}>
 			Menu

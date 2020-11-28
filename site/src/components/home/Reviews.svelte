@@ -12,7 +12,7 @@
         </div>
         <!-- Project One Row-->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
-            <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-01.jpg" alt="" /></div>
+            <div class="col-lg-6"><img class="img-fluid" src="assets/IMG-20201119-WA0075.jpg" alt="" /></div>
             <div class="col-lg-6">
                 <div class="gradient  text-center h-100 project">
                     <div class="d-flex h-100">
@@ -27,7 +27,7 @@
         </div>
         <!-- Project Two Row-->
         <div class="row justify-content-center no-gutters">
-            <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-02.jpg" alt="" /></div>
+            <div class="col-lg-6"><img class="img-fluid" src="assets/IMG_20201008_161708_817.jpg" alt="" /></div>
             <div class="col-lg-6 order-lg-first">
                 <div class="gradient text-center h-100 project">
                     <div class="d-flex h-100">
