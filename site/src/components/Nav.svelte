@@ -19,9 +19,9 @@
 		</button>
 		<div class="collapse navbar-collapse {open ? 'show' : ''}" id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
-				<li class="nav-item"><a class="nav-link js-scroll-trigger" on:click={() => open = false} href="#about">About</a></li>
-				<li class="nav-item"><a class="nav-link js-scroll-trigger" on:click={() => open = false} href="#projects">Projects</a></li>
-				<li class="nav-item"><a class="nav-link js-scroll-trigger" on:click={() => open = false} href="#signup">Contact</a></li>
+				<li class="nav-item"><a class="nav-link js-scroll-trigger" on:click={() => open = false} href="#about">Sobre</a></li>
+				<li class="nav-item"><a class="nav-link js-scroll-trigger" on:click={() => open = false} href="#projects">Comentários</a></li>
+				<li class="nav-item"><a class="nav-link js-scroll-trigger" on:click={() => open = false} href="#signup">Contatos</a></li>
 			</ul>
 		</div>
 	</div>
