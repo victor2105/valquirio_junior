@@ -29,7 +29,7 @@
                         <h4 class="text-uppercase m-0">Endereço</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
-                            Ao lado da Escola CEDAP
+                            Rua Tabelião João Ataide, 76. Centro. Santa Cruz/RN. Ao lado da Escola CEDAP.
                         </div>
                     </div>
                 </div>
