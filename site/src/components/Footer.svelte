@@ -79,5 +79,5 @@
     </div>
 </section>
 <footer class="footer bg-black small text-center text-white-50">
-    <div class="container">Copyright © Your Website 2020</div>
+    <div class="container">Copyright © Kiro Mass 2020</div>
 </footer>
