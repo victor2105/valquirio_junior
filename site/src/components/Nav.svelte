@@ -16,9 +16,12 @@
 	class="navbar navbar-expand-lg navbar-light fixed-top {y > 100 ? 'navbar-shrink' : ''} "
 	id="mainNav">
 	<div class="container">
-		<img src="assets/logos/logo2.png" class="pr-2" width="50" alt="logo" />
+		
 
-		<a class="navbar-brand logo-font text-gradient " on:click={() => open = false} href="#page-top">Kiro Mass</a>
+		<a class="navbar-brand logo-font text-gradient " on:click={() => open = false} href="#page-top">
+			<img src="assets/logos/logo2.png" class="pr-2" width="50" alt="logo" />
+			Kiro Mass
+		</a>
 
 		<button
 			class="navbar-toggler navbar-toggler-right"
