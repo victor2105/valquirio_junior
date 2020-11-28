@@ -29,7 +29,7 @@
                         <h4 class="text-uppercase m-0">Address</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
-                            4923 Market Street, Orlando FL
+                            Ao lado da Escola CEDAP
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                         <h4 class="text-uppercase m-0">Email</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
-                            <a href="#!">hello@yourdomain.com</a>
+                            <a href="#!">juniorkiro.kairo@gmail.com</a>
                         </div>
                     </div>
                 </div>
@@ -50,17 +50,17 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-mobile-alt text-primary mb-2" />
-                        <h4 class="text-uppercase m-0">Phone</h4>
+                        <h4 class="text-uppercase m-0">Celular</h4>
                         <hr class="my-4" />
-                        <div class="small text-black-50">+1 (555) 902-8832</div>
+                        <div class="small text-black-50">+55 (84) 99930-9623</div>
                     </div>
                 </div>
             </div>
         </div>
         <div class="social d-flex justify-content-center">
-            <a class="mx-2" href="#!"><i class="fab fa-twitter" /></a>
+            <a class="mx-2" target="_blank" href="https://wa.me/<5584999309623>"><i class="fab fa-whatsapp" /></a>
             <a class="mx-2" target="_blank" href="https://www.instagram.com/kiro_mass/?hl=pt-br"><i class="fab fa-instagram" /></a>
-            <a class="mx-2" href="#!"><i class="fab fa-github" /></a>
+            <!-- <a class="mx-2" href="#!"><i class="fab fa-github" /></a> -->
         </div>
     </div>
 </section>
