@@ -3,16 +3,16 @@
         <div class="row">
             <div class="col-md-10 col-lg-8 mx-auto text-center">
                 <i class="far fa-paper-plane fa-2x mb-2 text-white" />
-                <h2 class="text-white mb-5">Subscribe to receive updates!</h2>
+                <h2 class="text-white mb-5">Inscreva-se para novidades!</h2>
                 <form class="form-inline d-flex">
                     <input
                         class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0"
                         id="inputEmail"
                         type="email"
-                        placeholder="Enter email address..." />
+                        placeholder="Digite o email..." />
                     <button
                         class="btn btn-primary mx-auto"
-                        type="submit">Subscribe</button>
+                        type="submit">Seguir</button>
                 </form>
             </div>
         </div>
@@ -26,7 +26,7 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-map-marked-alt text-primary mb-2" />
-                        <h4 class="text-uppercase m-0">Address</h4>
+                        <h4 class="text-uppercase m-0">Endereço</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
                             Ao lado da Escola CEDAP
@@ -50,7 +50,7 @@
                 <div class="card py-4 h-100">
                     <div class="card-body text-center">
                         <i class="fas fa-mobile-alt text-primary mb-2" />
-                        <h4 class="text-uppercase m-0">Celular</h4>
+                        <h4 class="text-uppercase m-0">Telefone</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">+55 (84) 99930-9623</div>
                     </div>
