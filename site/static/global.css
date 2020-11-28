@@ -1,0 +1,16 @@
+.gradient {
+    background: rgba(255,255,255,1);
+    background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(167,207,220,1) 66%, rgba(167,207,220,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(66%, rgba(167,207,220,1)), color-stop(100%, rgba(167,207,220,1)));
+    background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(167,207,220,1) 66%, rgba(167,207,220,1) 100%);
+    background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(167,207,220,1) 66%, rgba(167,207,220,1) 100%);
+    background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(167,207,220,1) 66%, rgba(167,207,220,1) 100%);
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(167,207,220,1) 66%, rgba(167,207,220,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#a7cfdc', GradientType=0 );
+}
+
+.text-gradient {
+  background: -webkit-linear-gradient(rgb(0, 160, 223), rgb(58, 128, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
