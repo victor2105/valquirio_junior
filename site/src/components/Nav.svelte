@@ -12,7 +12,9 @@
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top {y > 100 ? 'navbar-shrink' : '' } " id="mainNav">
 	<div class="container">
-		<a class="navbar-brand js-scroll-trigger" on:click={() => open = false} href="#page-top">Start Bootstrap</a>
+		<a class="navbar-brand js-scroll-trigger" on:click={() => open = false} href="#page-top">
+			<img src="assets/logo.jpg" width="80" alt="logo">
+		</a>
 		<button class="navbar-toggler navbar-toggler-right" type="button" on:click={() => open = !open} aria-expanded={open}>
 			Menu
 			<i class="fas fa-bars"></i>
