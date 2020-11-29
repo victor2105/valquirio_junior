@@ -11,7 +11,7 @@
                     src="assets/IMG_20201009_174550_700.jpg"
                     alt="" />
             </div>
-            <div class="col-xl-4 col-lg-5">
+            <div data-aos="fade-left" data-aos-delay="100" class="col-xl-4 col-lg-5">
                 <div
                     class="text-gradient featured-text text-center text-lg-left">
                     <h4>Formas de Atendimento</h4>
@@ -38,7 +38,7 @@
             <div class="col-lg-6">
                 <div class="gradient  text-center h-100 project">
                     <div class="d-flex h-100">
-                        <div
+                        <div data-aos="fade-right" data-aos-delay="100"
                             class="project-text w-100 my-auto text-center text-lg-left">
                             <h4 class="text-gradient">Ventosaterapia</h4>
                             <p class="mb-0 text-gradient">
@@ -65,7 +65,7 @@
             <div class="col-lg-6 order-lg-first">
                 <div class="gradient text-center h-100 project">
                     <div class="d-flex h-100">
-                        <div
+                        <div data-aos="fade-left" data-aos-delay="100"
                             class="project-text w-100 my-auto text-center text-lg-right">
                             <h4 class="text-gradient">Massagem</h4>
                             <p class="mb-0 text-gradient">
