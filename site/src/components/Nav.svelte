@@ -32,7 +32,7 @@
 		</a>
 
 		<button
-			class="navbar-toggler navbar-toggler-right"
+			class="text-gradient navbar-toggler navbar-toggler-right"
 			type="button"
 			on:click={() => (open = !open)}
 			aria-expanded={open}>
@@ -40,24 +40,24 @@
 			<i class="fas fa-bars" />
 		</button>
 		<div
-			class="collapse navbar-collapse {open ? 'show' : ''}"
+			class="text-gradient collapse navbar-collapse {open ? 'show' : ''}"
 			id="navbarResponsive">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
 					<a
-						class="nav-link js-scroll-trigger"
+						class="text-gradient nav-link js-scroll-trigger"
 						on:click={() => (open = false)}
 						href="#about">Sobre</a>
 				</li>
 				<li class="nav-item">
 					<a
-						class="nav-link js-scroll-trigger"
+						class="text-gradient nav-link js-scroll-trigger"
 						on:click={() => (open = false)}
 						href="#projects">Comentários</a>
 				</li>
 				<li class="nav-item">
 					<a
-						class="nav-link js-scroll-trigger"
+						class="text-gradient nav-link js-scroll-trigger"
 						on:click={() => (open = false)}
 						href="#signup">Contatos</a>
 				</li>
