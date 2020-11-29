@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Kirro Mass</title>
 </svelte:head>
 
 <Hero />
