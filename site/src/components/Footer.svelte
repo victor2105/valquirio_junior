@@ -22,10 +22,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
             <div class="col-md-10 col-lg-8 mx-auto text-center">
                 <i class="far fa-paper-plane fa-2x mb-2 text-white" />
                 <h2 class="text-white mb-5">Inscreva-se para novidades!</h2>
-                <form class="form-inline d-flex">
+                <form class="form-inline d-flex" action="https://app.us7.list-manage.com/subscribe/post?u=ad98bdfde46053180611f36ab&amp;id=d014c76e31" method="post">
                     <input
                         class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0"
                         id="inputEmail"
+                        name="EMAIL"
                         type="email"
                         placeholder="Digite o email..." />
                     <button
