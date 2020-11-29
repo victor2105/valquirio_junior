@@ -44,16 +44,12 @@
         right: -50%;
         max-height: 100%;
     }
+
 </style>
 
 <div class="feature-section" id="features">
     <ContainerFluid style="" p="px-0" height="screen-height">
-        <div class="bg-img">
-            <img
-                loading="lazy"
-                alt="bg"
-                src="svgs/imagens-ora-consorcio_parceiro-carro-background.svg" />
-
+        <div class="bg-img" style="padding: 5rem 0;">
             <div class="container" data-aos="zoom-in" data-aos-delay="100">
                 <h2 class="text-gradient mb-4 text-center">
                     Todo respeito e segurança com seus dados e privacidade.
