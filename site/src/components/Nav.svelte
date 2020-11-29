@@ -59,6 +59,12 @@
 					<a
 						class="text-gradient nav-link js-scroll-trigger"
 						on:click={() => (open = false)}
+						href="#features">Serviçoes</a>
+				</li>
+				<li class="nav-item">
+					<a
+						class="text-gradient nav-link js-scroll-trigger"
+						on:click={() => (open = false)}
 						href="#signup">Contatos</a>
 				</li>
 			</ul>
