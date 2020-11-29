@@ -3,23 +3,31 @@
 	let open = false;
 </script>
 
-<style>	
-.logo-font {
-    font-family: 'Satisfy', cursive;
-}
+<style>
+	.logo-font {
+		font-family: "Satisfy", cursive;
+		background: -webkit-linear-gradient(rgb(0, 160, 223), rgb(148, 193, 6));
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
 </style>
 
-<svelte:window bind:scrollY={y}/>
+<svelte:window bind:scrollY={y} />
 
 <!-- Navigation-->
 <nav
 	class="navbar navbar-expand-lg navbar-light fixed-top {y > 100 ? 'navbar-shrink' : ''} "
 	id="mainNav">
 	<div class="container">
-		
-
-		<a class="navbar-brand logo-font text-gradient " on:click={() => open = false} href="#page-top">
-			<img src="assets/logos/logo2.png" class="pr-2" width="50" alt="logo" />
+		<a
+			class="navbar-brand logo-font"
+			on:click={() => (open = false)}
+			href="#page-top">
+			<img
+				src="assets/logos/logo2.png"
+				class="pr-2"
+				width="50"
+				alt="logo" />
 			Kiro Mass
 		</a>
 
