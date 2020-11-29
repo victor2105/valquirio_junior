@@ -1,5 +1,5 @@
 <script>
-	import { Hero, Reviews, Smallhero } from "../components";
+	import { Hero, Reviews, Smallhero, Features } from "../components";
 </script>
 
 <svelte:head>
@@ -9,3 +9,4 @@
 <Hero />
 <Smallhero />
 <Reviews />
+<Features />

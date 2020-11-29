@@ -14,12 +14,15 @@
             <div class="col-xl-4 col-lg-5">
                 <div
                     class="text-gradient featured-text text-center text-lg-left">
-                    <h4>Shoreline</h4>
+                    <h4>Formas de Atendimento</h4>
                     <p class="text-black-50 mb-0">
-                        Grayscale is open source and MIT licensed. This means
-                        you can use it for any project - even commercial
-                        projects! Download it, customize it, and publish your
-                        website!
+                        Além do atendimento realizado no
+                    <a
+                        target="_blank"
+                        href="https://www.instagram.com/p/CGcixOSAOEl/?utm_source=ig_web_copy_link">
+                        @ikigaidojosc
+                    </a>, também atendemos em domicílio com todo conforto
+                    profissional.
                     </p>
                 </div>
             </div>
