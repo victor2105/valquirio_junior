@@ -1,0 +1,6 @@
+export const phoneNumber = '+55 (84) 99930-9623'
+export const wpLink = 'https://wa.me/<5584999309623>'
+export const instaLink = 'https://www.instagram.com/kiro_mass/?hl=pt-br'
+export const locationLink = 'https://maps.google.com/?q=-6.2241577,-36.0230383'
+export const email = 'juniorkiro.kairo@gmail.com'
+export const address = 'Rua Tabelião João Ataide, 76. Centro. Santa Cruz/RN. Ao lado da Escola CEDAP.'

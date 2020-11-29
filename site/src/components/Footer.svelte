@@ -1,3 +1,6 @@
+<script>
+    import { wpLink, instaLink, phoneNumber, locationLink, email, address } from '../config'
+</script>
 <style>
 
     .dark-green-gradient {
@@ -49,9 +52,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
                         <hr class="my-4" />
                         <div class="small text-black-50">
                             <a
-                                href="https://maps.google.com/?q=-6.2241577,-36.0230383">
-                                Rua Tabelião João Ataide, 76. Centro. Santa
-                                Cruz/RN. Ao lado da Escola CEDAP.
+                                href={locationLink}>
+                                {address}
                             </a>
                         </div>
                     </div>
@@ -64,7 +66,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
                         <h4 class="text-uppercase m-0">Email</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
-                            <a href="#!">juniorkiro.kairo@gmail.com</a>
+                            <a href="#!">{email}</a>
                         </div>
                     </div>
                 </div>
@@ -76,7 +78,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
                         <h4 class="text-uppercase m-0">Telefone</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
-                            +55 (84) 99930-9623
+                            {phoneNumber}
                         </div>
                     </div>
                 </div>
@@ -86,12 +88,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
             <a
                 class="mx-2"
                 target="_blank"
-                href="https://wa.me/<5584999309623>"><i
+                href={wpLink}><i
                     class="fab fa-whatsapp" /></a>
             <a
                 class="mx-2"
                 target="_blank"
-                href="https://www.instagram.com/kiro_mass/?hl=pt-br"><i
+                href={instaLink}><i
                     class="fab fa-instagram" /></a>
             <!-- <a class="mx-2" href="#!"><i class="fab fa-github" /></a> -->
         </div>
