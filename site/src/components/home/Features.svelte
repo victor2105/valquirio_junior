@@ -4,7 +4,7 @@
     const cards = [
         {
             title: `Massagem Modeladora`,
-            text: ``,
+            text: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, nobis.`,
         },
         {
             title: `Drenagem Linfática`,
@@ -16,15 +16,15 @@
         },
         {
             title: `Massagem Facial`,
-            text: ``,
+            text: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque molestiae deleniti atque aliquam iste odio fugit?`,
         },
         {
             title: "Reflexologia Podal",
-            text: ``,
+            text: `Lorem ipsum dolor sit amet consectetur, adipisicing elit.`,
         },
         {
             title: "Ventosaterapia",
-            text: ``,
+            text: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
         },
     ];
 </script>
@@ -70,12 +70,16 @@
                                 cards[index].hover = false;
                             }}>
                             <Card
-                                shadow={card.hover}
+                                shadow={false}
                                 animation="fade-in"
-                                delay={index * 200}
+                                delay={(index+1) * 200}
                                 className="p-4 py-5">
-                                <h4 class="text-primary">{card.title}</h4>
-                                <p class="mt-4">{card.text}</p>
+
+                                <h4 class="text-uppercase m-0">{card.title}</h4>
+                                <hr class="my-4" />
+                                <div class="small text-black-50">
+                                    {card.text}
+                                </div>
                             </Card>
                         </div>
                     {/each}
