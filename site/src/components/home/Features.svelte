@@ -55,7 +55,7 @@
                 src="svgs/imagens-ora-consorcio_parceiro-carro-background.svg" />
 
             <div class="container" data-aos="zoom-in" data-aos-delay="100">
-                <h2 class="text-gradient mb-4">
+                <h2 class="text-gradient mb-4 text-center">
                     Todo respeito e segurança com seus dados e privacidade.
                 </h2>
 
