@@ -46,7 +46,7 @@
     }
 </style>
 
-<div id="features">
+<div class="feature-section" id="features">
     <ContainerFluid style="" p="px-0" height="screen-height">
         <div class="bg-img">
             <img
@@ -59,7 +59,7 @@
                     Todo respeito e segurança com seus dados e privacidade.
                 </h2>
 
-                <div class="grid">
+                <div class="grid feature-section">
                     {#each cards as card, index}
                         <div
                             style="display: grid;"
@@ -72,7 +72,7 @@
                             <Card
                                 shadow={false}
                                 animation="fade-in"
-                                delay={(index+1) * 200}
+                                delay={(index+1) * 300}
                                 className="p-4 py-5">
 
                                 <h4 class="text-uppercase m-0">{card.title}</h4>
