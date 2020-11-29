@@ -9,7 +9,7 @@
 </style>
 
 <header class="hero-gradient masthead">
-    <div class="grid container d-flex h-100 align-items-center">
+    <div style="min-height:40vh" class="grid container d-flex h-100 align-items-center">
         <div class=" mx-auto text-center">
             <h1 class="text-gradient mx-auto my-0 text-uppercase">Kiro mass</h1>
             <h2 class="text-gradient text-white-50 mx-auto mt-2 mb-5">
