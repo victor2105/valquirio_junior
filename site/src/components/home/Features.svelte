@@ -52,7 +52,7 @@
         <div class="bg-img" style="padding: 5rem 0;">
             <div class="container" data-aos="zoom-in" data-aos-delay="100">
                 <h2 class="text-gradient mb-4 text-center">
-                    Todo respeito e segurança com seus dados e privacidade.
+                    Benefícios
                 </h2>
 
                 <div class="grid feature-section">
