@@ -66,7 +66,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f9fa', end
                         <h4 class="text-uppercase m-0">Email</h4>
                         <hr class="my-4" />
                         <div class="small text-black-50">
-                            <a href="#!">{email}</a>
+                            <p>{email}</p>
                         </div>
                     </div>
                 </div>
