@@ -4,11 +4,11 @@
     const cards = [
         {
             title: `Massagem Modeladora`,
-            text: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque, nobis.`,
+            text: `A massagem modeladora possui a finalidade de definir as curvas do corpo reduzindo medidas através da eliminação de gordura localizada.`,
         },
         {
             title: `Drenagem Linfática`,
-            text: `Oferecemos tanto drenagens linfáticas direcionadas quanto de corpo inteiro`,
+            text: `A drenagem linfática pode beneficiar a saúde e a beleza do corpo eliminando inchaço, toxinas e nódulos gordurosos.`,
         },
         {
             title: `Massagem Relaxante`,
@@ -16,15 +16,15 @@
         },
         {
             title: `Massagem Facial`,
-            text: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque molestiae deleniti atque aliquam iste odio fugit?`,
+            text: `A massagem facial suavisa as linhas de expressões, diminuindo inchanço, relaxando os músculos e estimulando a circulação sanguínea do rosto.`,
         },
         {
             title: "Reflexologia Podal",
-            text: `Lorem ipsum dolor sit amet consectetur, adipisicing elit.`,
+            text: `Conheça os resultados de uma pesquisa realizada com 43 pessoas com dores lombares que tiveram ótimos resultados após o tratamento com as pastilhas.`,
         },
         {
             title: "Ventosaterapia",
-            text: `Lorem ipsum dolor sit amet consectetur adipisicing elit.`,
+            text: `A ventosaterpia reduz dores de cabeça, dores nas costas e dores lombares, liberando a circulação nos tecidos musculares e melhorando a circulação sanguínea.`,
         },
     ];
 </script>
