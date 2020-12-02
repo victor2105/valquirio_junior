@@ -20,7 +20,7 @@
         },
         {
             title: "Reflexologia Podal",
-            text: `Conheça os resultados de uma pesquisa realizada com 43 pessoas com dores lombares que tiveram ótimos resultados após o tratamento com as pastilhas.`,
+            text: `Reflexologia podal é uma técnica de massagem que utiliza a pressão em determinados pontos dos pés, os quais correspondem a regiões e órgãos do corpo humano.`,
         },
         {
             title: "Ventosaterapia",
