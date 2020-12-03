@@ -68,7 +68,7 @@
                             <Card
                                 shadow={false}
                                 animation="fade-in"
-                                delay={(index+1) * 300}
+                                delay= "300"
                                 className="p-4 py-5">
 
                                 <h4 class="text-uppercase m-0">{card.title}</h4>

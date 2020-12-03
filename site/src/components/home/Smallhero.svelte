@@ -8,6 +8,6 @@
                 </p>
             </div>
         </div>
-        <img class="img-fluid" src="assets/img/ipad.png" alt="" />
+        <img class="img-fluid" src="assets/kiroMass3.png" alt="" />
     </div>
 </section>

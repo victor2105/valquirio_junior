@@ -4,14 +4,22 @@
         background-position: center;
         background-repeat: no-repeat;
         background-attachment: scroll;
-        background-size: 70%;
+    }
+    .hei {
+        min-height: 60vh;
+    }
+    @media only screen and (min-width: 1000px) {
+        .hei {
+            min-height: 40vh;
+        }
+        .grid {
+            background-size: 70%;
+        }
     }
 </style>
 
 <header class="hero-gradient masthead">
-    <div
-        style="min-height:40vh"
-        class="grid container d-flex h-100 align-items-center">
+    <div class="hei grid container d-flex h-100 align-items-center">
         <div
             data-aos="fade-in"
             data-aos-delay="100"
